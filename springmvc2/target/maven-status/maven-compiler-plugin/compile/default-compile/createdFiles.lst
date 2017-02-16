@@ -1,0 +1,5 @@
+cn/springmvc/model/User.class
+cn/springmvc/controller/UserController.class
+cn/springmvc/dao/UserDAO.class
+cn/springmvc/service/impl/UserServiceImpl.class
+cn/springmvc/service/UserService.class
